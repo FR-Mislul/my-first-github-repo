@@ -9,21 +9,49 @@ h1{
     display: flex;
     padding: 10px;
     padding-bottom: 80px;
+    position: relative;
 }
 #first{
     width: 300px;
     padding: 30px;
     border: 3px solid orange;
     background-color: aquamarine;
-    box-shadow: 10px 20px 20px blueviolet;
+    box-shadow: 30px 20px 20px blueviolet;
     display: flex;
     border-radius: 20px;
+}
+h2{
+    text-align: center;
+    
 }
 #pic img{
     width: 400px;
     height: 400px;
-    margin-left: 50px;
-    box-shadow: 20px 20px 20px blue;
+    margin-left: 40px;
+    box-shadow: 30px 20px 20px blue;
     border: 5px solid navajowhite;
     border-radius: 20px;
+    }
+    .me{
+        width: 300px;
+        padding: 30px;
+        border: 3px solid greenyellow;
+        background-color: aqua;
+        box-shadow: 30px 20px 20px burlywood;
+        display: flex;
+        border-radius: 20px;
+        margin-left: 40px;
+    }
+    #fot{
+        width: 100%;
+        height: 100px;
+        background-color: black;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+    #fot h2{
+        color: white;
+        font-size: 40px;
+        text-align: center;
+        padding: 30px;
     }
