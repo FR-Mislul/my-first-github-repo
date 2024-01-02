@@ -1,0 +1,29 @@
+
+h1{
+    color: aqua;
+    background-color: black;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#main{
+    display: flex;
+    padding: 10px;
+    padding-bottom: 80px;
+}
+#first{
+    width: 300px;
+    padding: 30px;
+    border: 3px solid orange;
+    background-color: aquamarine;
+    box-shadow: 10px 20px 20px blueviolet;
+    display: flex;
+    border-radius: 20px;
+}
+#pic img{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    box-shadow: 20px 20px 20px blue;
+    border: 5px solid navajowhite;
+    border-radius: 20px;
+    }
